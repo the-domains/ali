@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Ali]]></title>
         <description><![CDATA[Ali]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ali/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 20:25:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 26 Oct 2015 20:26:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ali/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hi]]></title>
             <description><![CDATA[<article><h1>Hi</h1><p>This is my first post.</p></article>]]></description>
-            <link>undefinedhi/index.html</link>
+            <link>https://thegrid.ai/ali/hi/index.html</link>
             <guid isPermaLink="false">3fd48949-2c3b-4932-99a5-eeb4fc3194e1</guid>
-            <pubDate>Mon, 26 Oct 2015 20:25:55 GMT</pubDate>
+            <pubDate>Mon, 26 Oct 2015 20:26:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
