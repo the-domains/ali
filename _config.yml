@@ -1,0 +1,23 @@
+name: ali
+favicon: null
+layout_spectrum: 0.7622549929656088
+typography_spectrum: 0.6717498821672052
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5385596840642393
+  lightness: 0.8690015580505133
+  saturation: 0.20943819009698927
+  rhythmicContrast: 0.029990662122145295
+purpose: []
